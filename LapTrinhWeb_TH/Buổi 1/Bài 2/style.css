@@ -65,6 +65,7 @@ a{
 
 .header .row{
     margin-top: 70px;
+    margin-right: 1010px;
 }
 
 .col-2{
@@ -74,19 +75,51 @@ a{
     .col-2 img{
         max-width: 100%;
         padding: 50px 0;
+        /* width: 620px;
+        margin-left: 670px; */
     }
 
     .col-2 h1{
         font-size: 50px;
         line-height: 60px;
         margin: 25px 0;
+        /* width: 620px;
+        margin-right: 630px; */
+    }
+
+    .col-2 p{
+        margin-bottom: 25px;
+        color: #fff;
+        width: 620px;
+        /* float: left; */
     }
 
     .exp{
         background-color: orangered;
         border-radius: 25px;
-        padding: 10px;
+        padding: 5px 20px 5px 25px;
+        /* margin-right: 670px; */
 }
-.col-2 p{
-    margin-bottom: 25px;
+
+/* categories */
+.small-container{
+    min-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
 }
+
+.categories{
+    margin: 70px 0;
+}
+
+.col-3{
+    flex-basis: 30%;
+    min-width: 250px;
+    margin-bottom: 30px;
+    float: left;
+}
+    .col-3{
+        width: 100%;
+    }
+/* end - categories */
