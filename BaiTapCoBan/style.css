@@ -1,0 +1,12 @@
+.inNghieng{
+    font-style: italic;
+}
+.inDam{
+    font-weight: bold;
+}
+.gachDit{
+    text-decoration-line: underline;
+}
+.gachGiua{
+    text-decoration-line: line-through;
+}
