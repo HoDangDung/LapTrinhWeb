@@ -1,0 +1,49 @@
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.logo{
+    background-color: blue;
+    width: 350px;
+    height: 100px;
+    margin: 15px;
+    float: left;
+}
+.slogan{
+    background-color: blue;
+    width: 730px;
+    height: 100px;
+    margin: 15px;
+    float: left;
+}
+.nav{
+    background-color: blue;
+    width: 1110px;
+    height: 50px;
+    margin: 0 15px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.slider{
+    background-color: blue;
+    width: 1110px;
+    height: 250px;
+    margin: 15px;
+    float: left;
+}
+.item{
+    background-color: blue;
+    width: 255px;
+    height: 200px;
+    margin: 15px;
+    float: left;
+}
+.footer{
+    background-color: blue;
+    width: 1110px;
+    height: 100px;
+    margin: 15px;
+    float: left;
+}

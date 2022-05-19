@@ -1,0 +1,33 @@
+body{
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px 0 0 0;
+}
+.clear{
+    clear: both;
+}
+#container{
+    margin: 0 auto;
+}
+#banner{
+    height: 59px;
+}
+#logo{
+    width: 230px;
+}
+#menutop{
+    width: 710px;
+    float: right;
+    padding-top: 0px;
+}
+#menutop a{
+    display: block;         float: left; height: 26px;
+    padding-top: 9px;       width: 100px;
+    text-align: center;     background-color: #e9e1cf;
+    font-weight: bold;      margin-left: 1px;
+    text-decoration: none;  color: black;
+}
+#menutop a:hover{
+    background-color: #ed8d00;
+    color: #fff;
+}
