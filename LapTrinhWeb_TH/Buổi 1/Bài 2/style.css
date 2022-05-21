@@ -65,7 +65,6 @@ a{
 
 .header .row{
     margin-top: 70px;
-    margin-right: 1010px;
 }
 
 .col-2{
@@ -75,16 +74,12 @@ a{
     .col-2 img{
         max-width: 100%;
         padding: 50px 0;
-        /* width: 620px;
-        margin-left: 670px; */
     }
 
     .col-2 h1{
         font-size: 50px;
         line-height: 60px;
         margin: 25px 0;
-        /* width: 620px;
-        margin-right: 630px; */
     }
 
     .col-2 p{
