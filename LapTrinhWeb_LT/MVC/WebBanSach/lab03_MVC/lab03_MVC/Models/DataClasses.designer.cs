@@ -57,7 +57,7 @@ namespace lab03_MVC.Models
     #endregion
 		
 		public DataClassesDataContext() : 
-				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["QLBANSACHConnectionString"].ConnectionString, mappingSource)
+				base(global::System.Configuration.ConfigurationManager.ConnectionStrings["QLBANSACHConnectionString1"].ConnectionString, mappingSource)
 		{
 			OnCreated();
 		}
@@ -844,7 +844,7 @@ namespace lab03_MVC.Models
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Matkhau", DbType="VarChar(50) NOT NULL", CanBeNull=false)]
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Matkhau", DbType="VarChar(50)")]
 		public string Matkhau
 		{
 			get
