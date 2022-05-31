@@ -1,0 +1,207 @@
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\csc.exe
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\vbc.exe
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\MVCMusicStore.dll.config
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\MVCMusicStore.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\MVCMusicStore.pdb
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Antlr3.Runtime.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\EntityFramework.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Newtonsoft.Json.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Owin.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Helpers.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Mvc.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Optimization.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Razor.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.WebPages.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\WebGrease.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Helpers.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Mvc.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Optimization.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.Razor.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.WebPages.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Antlr3.Runtime.pdb
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Newtonsoft.Json.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\EntityFramework.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.dll
+C:\Users\HieuLe\Desktop\MVCMusicStore\MVCMusicStore\obj\Debug\MVCMusicStore.pdb
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\csc.exe
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\System.Collections.Immutable.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\vbc.exe
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\VBCSCompiler.exe
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\roslyn\VBCSCompiler.exe.config
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\MVCMusicStore.dll.config
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\MVCMusicStore.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\MVCMusicStore.pdb
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Antlr3.Runtime.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\EntityFramework.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\EntityFramework.SqlServer.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Google.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Newtonsoft.Json.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Owin.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Helpers.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Mvc.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Optimization.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Razor.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.WebPages.Deployment.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.WebPages.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.WebPages.Razor.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\WebGrease.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Helpers.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Mvc.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Optimization.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.Razor.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.WebPages.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.WebPages.Deployment.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\System.Web.WebPages.Razor.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Antlr3.Runtime.pdb
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Newtonsoft.Json.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\EntityFramework.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\EntityFramework.SqlServer.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Google.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\obj\Debug\MVCMusicStore.csprojResolveAssemblyReference.cache
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\obj\Debug\MVCMusicStore.dll
+D:\GiangDay\Tai Lieu Theo Mon Hoc\LapTrinhWebNangCao\MVC5\LabThuchanh\MVCMusicStore_Lab5WithUserManagement\MVCMusicStore\obj\Debug\MVCMusicStore.pdb
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\csc.exe
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\vbc.exe
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\VBCSCompiler.exe
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\MVCMusicStore.dll.config
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\MVCMusicStore.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\MVCMusicStore.pdb
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Antlr3.Runtime.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\EntityFramework.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\EntityFramework.SqlServer.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Google.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Newtonsoft.Json.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Owin.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Helpers.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Mvc.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Optimization.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Razor.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.WebPages.Deployment.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.WebPages.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.WebPages.Razor.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\WebGrease.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Helpers.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Mvc.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Optimization.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.Razor.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.WebPages.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.WebPages.Deployment.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\System.Web.WebPages.Razor.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Antlr3.Runtime.pdb
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Newtonsoft.Json.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\EntityFramework.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\EntityFramework.SqlServer.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Google.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\obj\Debug\MVCMusicStore.csprojResolveAssemblyReference.cache
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\obj\Debug\MVCMusicStore.dll
+D:\Truong DH KTKTBinhDuong\LaptrinhWebNCMVC(2015)\LabThuchanh\LabTHMVC5(Capnhat)\Lab05\MVCMusicStore_WithUseManagement_New\MVCMusicStore\obj\Debug\MVCMusicStore.pdb

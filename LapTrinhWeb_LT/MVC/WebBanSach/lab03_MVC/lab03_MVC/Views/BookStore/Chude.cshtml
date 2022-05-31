@@ -1,8 +1,0 @@
-﻿@model IEnumerable<lab03_MVC.Models.CHUDE>
-<p class="lead">CHỦ ĐỀ SÁCH</p>
-@foreach (var item in Model)
-{
-    <a href="@Url.Action("SPTheochude", "BookStore", new { id = item.MaCD})" class="list-group-item" >
-    @item.TenChuDe
-        </a>
-}
