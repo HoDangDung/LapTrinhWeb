@@ -18,7 +18,6 @@
                     <p><strong>Mô tả: </strong>@item.mota</p>
                     <p><strong>Hãng: </strong>@item.hang</p>
                     <p><strong>Giá: </strong>@item.gia</p>
-                    <p><strong>Loại: </strong>@item.maloai</p>
                     <p><img src="@item.hinh" alt="hinh thumnail"></p>
                     <p><strong>Còn lại: </strong>@item.soluongton</p>
                     <p><strong>Ngày cập nhật: </strong>@item.ngaycapnhat</p>
@@ -27,7 +26,8 @@
                 <div class="panel-footer clearfix">
                     <div class="pull-right">
                         <div class="DatMua">
-                            <a class="btn btn-success" href="@Url.Action("ThemGioHang", "GioHang", new { @id = item.id, @strURL = Request.Url.ToString()})">Đặt mua</a>
+                            <a class="btn btn-success" 
+                               href="@Url.Action("ThemGioHang", "GioHang", new { @id = item.id, @strURL = Request.Url.ToString()})">Đặt mua</a>
                         </div>
                     </div>
                 </div>

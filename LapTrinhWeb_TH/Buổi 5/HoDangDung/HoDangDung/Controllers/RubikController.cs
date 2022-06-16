@@ -16,5 +16,11 @@ namespace HoDangDung.Controllers
             var all_rubik = from s in data.Rubiks select s;
             return View(all_rubik);
         }
+
+        public ActionResult Detail(int id)
+        {
+            var D_sach = data.Rubiks.Where(m => m.id == id).First();
+            return View(D_sach);
+        }
     }
 }
